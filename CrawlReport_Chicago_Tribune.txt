@@ -1,0 +1,39 @@
+Name: Neelima Vangipuram
+UCS ID: 4806046524
+News site crawled: chicagotribune.com
+
+Fetch Statistics
+================
+# fetches attempted: 19995
+# fetches succeeded: 16719
+# fetches failed or aborted :3276
+
+Outgoing URLs:
+================
+Total URLs extracted: 695613
+# unique URLs extracted: 166750
+# unique URLs within News Site :133445
+# unique URLs outside News Site :33305
+
+Status Codes:
+================
+404 Not Found: 8
+503 Service Unavailable: 61
+200 OK: 16719
+301 Moved Permanently: 977
+429 Others: 2228
+302 Found: 2
+
+File Sizes: 
+================
+< 1KB: 0
+1KB ~ <10KB: 70
+10KB ~ <100KB :1344
+100KB ~ <1MB: 14828
+>= 1MB :1
+
+Content Types:
+================
+image/png: 14
+text/html: 16212
+image/jpeg: 17
